@@ -1,0 +1,12 @@
+names:
+- shoulder
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: dressify6
+  url: https://universe.roboflow.com/fatha/dressify6/dataset/1
+  version: 1
+  workspace: fatha
+test: test/images
+train: train/images
+val: valid/images
